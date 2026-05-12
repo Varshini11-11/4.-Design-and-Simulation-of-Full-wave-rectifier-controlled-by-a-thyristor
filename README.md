@@ -66,5 +66,14 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1098" height="573" alt="Screenshot 2026-05-12 195440" src="https://github.com/user-attachments/assets/669ab0e3-2e7c-4ba5-baf9-f8fb4b46dadd" />
+
 ## Output
+
+<img width="1920" height="1140" alt="Screenshot 2026-05-12 195143" src="https://github.com/user-attachments/assets/4e8e8f3e-678c-4386-b047-13cfd2f4e592" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-12 195213" src="https://github.com/user-attachments/assets/27963fba-9e54-4310-838c-5bcd131d848f" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-12 195420" src="https://github.com/user-attachments/assets/07fb0bf9-709e-4ae8-abb4-ced18a707056" />
+
 ## Result
+Thus ,the Experiment has been stimulated and the ouput has been verified using matlab successfully.
+
